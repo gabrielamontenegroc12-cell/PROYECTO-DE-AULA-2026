@@ -1,2 +1,2 @@
 # PROYECTO-DE-AULA-2026
-Aqui esta el inicio de nuetsro proyecto de aula
+Este proyecto analiza los portafolios de inversión de los fondos de pensiones y cesantías (AFP) usando datos del Formato 351. El script limpia y consolida la información, calcula el peso de cada activo en el portafolio y compara distintas fechas para identificar compras y ventas de activos. Finalmente, genera un reporte automático en Excel con los movimientos del portafolio y con base a esto realizar un análsis financiero.
